@@ -1,0 +1,22 @@
+[
+  { "id": "ganga", "name": "Ganga", "aliases": ["ganges", "ganga river", "गंगा"], "dataset_ids": [] },
+  { "id": "yamuna", "name": "Yamuna", "aliases": ["jamuna", "yamuna river", "यमुना"], "dataset_ids": [] },
+  { "id": "godavari", "name": "Godavari", "aliases": ["godavari river", "गोदावरी"], "dataset_ids": [] },
+  { "id": "krishna", "name": "Krishna", "aliases": ["krishna river", "कृष्णा"], "dataset_ids": [] },
+  { "id": "cauvery", "name": "Cauvery", "aliases": ["kaveri", "cauvery river", "कावेरी"], "dataset_ids": [] },
+  { "id": "narmada", "name": "Narmada", "aliases": ["narmada river", "नर्मदा"], "dataset_ids": [] },
+  { "id": "tapi", "name": "Tapi", "aliases": ["tapti", "tapi river", "ताप्ती"], "dataset_ids": [] },
+  { "id": "brahmaputra", "name": "Brahmaputra", "aliases": ["brahmaputra river", "ब्रह्मपुत्र"], "dataset_ids": [] },
+  { "id": "mahanadi", "name": "Mahanadi", "aliases": ["mahanadi river", "महानदी"], "dataset_ids": [] },
+  { "id": "mandovi", "name": "Mandovi", "aliases": ["mandovi river"], "dataset_ids": [] },
+  { "id": "zuari", "name": "Zuari", "aliases": ["zuari river"], "dataset_ids": [] },
+  { "id": "periyar", "name": "Periyar", "aliases": ["periyar river", "पेरियार"], "dataset_ids": [] },
+  { "id": "sabarmati", "name": "Sabarmati", "aliases": ["sabarmati river", "साबरमती"], "dataset_ids": [] },
+  { "id": "mahi", "name": "Mahi", "aliases": ["mahi river", "माही"], "dataset_ids": [] },
+  { "id": "tungabhadra", "name": "Tungabhadra", "aliases": ["tungabhadra river", "तुंगभद्रा"], "dataset_ids": [] },
+  { "id": "pennar", "name": "Pennar", "aliases": ["penna", "pennar river"], "dataset_ids": [] },
+  { "id": "vaigai", "name": "Vaigai", "aliases": ["vaigai river", "वैगाई"], "dataset_ids": [] },
+  { "id": "hooghly", "name": "Hooghly", "aliases": ["hugli", "hooghly river", "हुगली"], "dataset_ids": [] },
+  { "id": "mithi", "name": "Mithi", "aliases": ["mithi river"], "dataset_ids": [] },
+  { "id": "godavari_ghats", "name": "Godavari (Ghats)", "aliases": ["godavari ghats"], "dataset_ids": [] }
+]
