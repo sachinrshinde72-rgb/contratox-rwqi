@@ -1,0 +1,11 @@
+{
+  "name": "contratox-rwqi",
+  "version": "1.0.0",
+  "description": "ContraTox RWQI API backend for Vercel",
+  "main": "api/rwqi.js",
+  "type": "module",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
